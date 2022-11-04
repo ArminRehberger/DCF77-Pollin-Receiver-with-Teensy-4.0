@@ -10,3 +10,9 @@ Pin 2 = GND
 Pin 3 = TCO -> Data output
 
 Pin 4 = PON -> connected to GND
+
+
+Schematic diagram KiCad:
+![image](https://user-images.githubusercontent.com/96622339/199928288-bd9d6e2f-3b6b-4b9b-bfba-aa339a6de8fb.png)
+
+
